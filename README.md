@@ -1,2 +1,2 @@
-# TouhouLinux
-一个东方主题的linux发行版
+# YuyukoArchLinux
+一个Yuyuko主题的linux发行版
